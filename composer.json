@@ -1,0 +1,16 @@
+{
+    "name": "ivan/api-rest-boilerplate-php",
+    "description": "Simple and small boilerplate for a Rest API with PHP.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ivan Mercedes",
+            "email": "ivanmercede@gmail.com"
+        }
+    ],
+    "require": {}
+}
